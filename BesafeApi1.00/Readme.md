@@ -102,7 +102,7 @@ Basic API status.
 
 ```json
 {
-  "message": "Text Classification API running"
+  "message": "This is a text classiffication api"
 }
 ```
 
@@ -126,7 +126,7 @@ Classifies input text.
 {
   "prediction": 1,
   "confidence": 0.8723,
-  "model_version": "v1"
+  "model_version": "1.0.00"
 }
 ```
 
@@ -141,7 +141,7 @@ Used for container health monitoring.
 ```json
 {
   "status": "ok",
-  "model_version": "v1"
+  "model_version": "1.0.00"
 }
 ```
 
